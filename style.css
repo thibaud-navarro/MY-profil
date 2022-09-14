@@ -1,0 +1,112 @@
+body {
+    color: black;
+}
+#motard1 {
+position: absolute;
+top: 5;
+right: 0;
+z-index: 1;
+width: 20vw;
+height: 20vh
+}
+
+h1{
+    background-color: black;
+    color:red;
+}
+h6 {
+    font-weight: 700;
+    font-size: 24px;
+}
+.http { 
+    color: blue;
+    text-align: right;
+}
+
+.social {
+    front-size: 32px  
+}
+h2{
+    background-color: #D6CDAA;
+}
+h3{
+    background-color: rgb(135, 132, 132);
+}
+h4 {
+    background-color: #D6CDAA;
+}
+.no-style{
+    color: #02124b;
+    font-weight: 70;
+    font-size: 24px;
+}
+
+.debut {
+    display: flex;
+    justify-content: space-around;
+}
+
+#moto {
+    height: 400px;
+    width: 700px ;
+}
+#moto2 {
+    height: 400px; ;
+    width: 750px;
+}
+#moto3 {
+    height: 400;
+    width: 750;
+}
+.ligne {
+    font-weight: 700;
+    font-size: 24px;
+    color: rgb(71, 68, 68);
+
+}
+
+.dispo {
+    color:rgb(81, 81, 216);
+}
+
+
+
+.carre {
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    border-bottom: 10px solid black;
+    background-color:#ECECEC;
+    padding: 10px;
+    border-radius: 60px;
+    
+}
+.prix {
+    border-top: 10px solid red;
+    border-left: 10px solid red;
+    border-right: 10px solid red;
+    border-bottom: 10px solid red;
+    background-color:#ECECEC;
+    padding: 10px;
+    border-radius: 60px;
+}
+
+h5{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
+
+#logo1 {
+    height: 60px;
+    width: 65px;
+}
+#logo2 {
+    height: 60px;
+    width: 65px;
+}
+#logo3 {
+    height: 60px;
+    width: 65px;
+}
